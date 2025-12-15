@@ -1,5 +1,5 @@
 ---
-title: Verification Summary Attestation (VSA)
+title: Verification Summary  Attestation (VSA)
 description: Specification for a verification summary of artifacts by a trusted verifier entity.
 layout: standard
 ---
