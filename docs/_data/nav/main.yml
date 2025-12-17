@@ -331,7 +331,7 @@
       If you want to achieve a particular level of the SLSA dependency track these
       are the requirements you'll need to meet.
     children:
-    - title: Consuming dependencies  
+    - title: Consuming dependencies
       url: /spec/draft/dependency-track
       description: Overview of the Dependency track
 
@@ -424,3 +424,4 @@
 
 - title: Blog
   url: /blog
+
